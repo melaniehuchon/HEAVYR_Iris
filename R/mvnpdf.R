@@ -41,4 +41,3 @@ mvnpdf <- function(x, mean = rep(0, nrow(x)), varcovM = diag(nrow(x)), Log = TRU
   res <- list(x = x, y = y)
   return(res)
 }
-
