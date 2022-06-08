@@ -20,6 +20,8 @@ knitr::opts_chunk$set(
 
 HEAVYR is a summer class I'm taking at the University of Bordeaux and this is an example. To be deleted soon. 
 
+HELLO I'M BREAKING EVERYTHING
+
 ## Installation
 
 You can install the development version of HEAVYR from [GitHub](https://github.com/) with:
