@@ -9,6 +9,8 @@
 HEAVYR is a summer class I’m taking at the University of Bordeaux and
 this is an example. To be deleted soon.
 
+this is a change that creates a conflict.
+
 ## Installation
 
 You can install the development version of HEAVYR from
