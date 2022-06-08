@@ -11,6 +11,8 @@ this is an example. To be deleted soon.
 
 this is a change that creates a conflict.
 
+We testing fork option of GitHub. (Mélanie)
+
 ## Installation
 
 You can install the development version of HEAVYR from
